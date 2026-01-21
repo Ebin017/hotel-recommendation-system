@@ -40,11 +40,13 @@ hotel-recommendation-system/
 ---
 
 ## ▶️ How to Run
+
 ```bash
 pip install streamlit pandas scikit-learn
 streamlit run app.py
 
-👨‍💻 Author
+## 👨‍💻 Author
 
-Ebin Raj
+**Ebin Raj**  
 Aspiring Data Analyst / Data Scientist
+
