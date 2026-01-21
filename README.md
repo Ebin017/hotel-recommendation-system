@@ -30,8 +30,10 @@ The application recommends hotels based on similarity.
 
 ## ▶️ How to Run
 
+```bash
 pip install streamlit pandas scikit-learn
 streamlit run app.py
+```
 
 ---
 
