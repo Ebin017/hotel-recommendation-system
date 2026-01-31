@@ -88,11 +88,15 @@ st.markdown(f"""
 
 
 # ---------------- Recommendation Logic ----------------
+
+
 def recommend(hotel,n=6):
     vect = data['dict'][hotel]
     sim = cosine_similarity(vect,data['x'])[0]
     idx = sim.argsort()[::-1][1:n+1]
     return df['hotelname'].iloc[idx].tolist()
+
+
 
 # ---------------- Hero ----------------
 st.markdown("""
@@ -107,6 +111,8 @@ center = st.columns([1,2,1])
 with center[1]:
     selected = st.selectbox("Choose a Hotel", list(data['dict'].keys()))
     btn = st.button("Find Hotels")
+
+
 
 # ---------------- Hotel Card ----------------
 def card(name):
