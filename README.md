@@ -30,9 +30,9 @@ The application recommends hotels based on similarity.
 
 ## App Preview
 
-![Hotel Recommendation App](images/Screenshot 2026-01-31 150203.png)
-![Hotel Recommendation App](images/Screenshot 2026-01-31 150226.png)
-![Hotel Recommendation App](images/Screenshot 2026-01-31 150242.png)
+![Hotel Recommendation App](images/Screenshot%202026-01-31%20150203.png)
+![Hotel Recommendation App](images/Screenshot%202026-01-31%20150226.png)
+![Hotel Recommendation App](images/Screenshot%202026-01-31%20150242.png)
 
 ---
 
