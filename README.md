@@ -28,6 +28,14 @@ The application recommends hotels based on similarity.
 
 ---
 
+## App Preview
+
+![Hotel Recommendation App](images/Screenshot 2026-01-31 150203.png)
+![Hotel Recommendation App](images/Screenshot 2026-01-31 150226.png)
+![Hotel Recommendation App](images/Screenshot 2026-01-31 150242.png)
+
+---
+
 ## ▶️ How to Run
 
 ```bash
